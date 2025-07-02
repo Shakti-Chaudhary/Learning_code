@@ -1,0 +1,68 @@
+# === Global ignores for all subfolders/projects ===
+
+# Node.js dependencies
+**/node_modules/
+**/package-lock.json
+**/yarn.lock
+
+# Python
+**/__pycache__/
+**/*.py[cod]
+**/.venv/
+**/env/
+**/venv/
+
+# Ruby
+**/log/
+**/tmp/
+**/*.gem
+
+# PHP / Laravel
+**/vendor/
+
+# Java
+**/target/
+**/*.class
+
+# C/C++
+**/*.o
+**/*.out
+**/*.exe
+
+# Environment and configuration
+**/.env
+**/.env.*
+**/*.env
+**/.DS_Store
+**/Thumbs.db
+
+# Build/output folders
+**/dist/
+**/build/
+**/out/
+**/coverage/
+
+# OS and IDE-specific
+**/.vscode/
+**/.idea/
+**/*.swp
+**/*~
+
+# Git
+**/.git/
+**/.gitignore
+
+# Logs
+**/*.log
+**/logs/
+
+# Other common sensitive or cache files
+**/.cache/
+**/node_repl_history
+**/.npm/
+**/.eslintcache
+**/.parcel-cache/
+
+# Optional: Ignore all hidden files/folders except specific ones
+.*/*
+!/.gitignore
