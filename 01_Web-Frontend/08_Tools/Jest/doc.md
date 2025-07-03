@@ -1,4 +1,3 @@
-While I can't generate the "same" content as a previous response without knowing what that was, I can create a comprehensive interview guide for **Jest**, a popular JavaScript testing framework.
 
 -----
 

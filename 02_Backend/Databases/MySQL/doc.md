@@ -1,4 +1,3 @@
-Okay, here's an extensive, topic-wise guide for Web APIs, designed to cover the most commonly used and important APIs that a front-end developer should know for an interview.
 
 -----
 
