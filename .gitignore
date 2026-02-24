@@ -66,3 +66,4 @@
 # Optional: Ignore all hidden files/folders except specific ones
 .*/*
 !/.gitignore
+**/01_Web-Frontend/09_Learning_Projects
